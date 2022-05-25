@@ -1,1 +1,0 @@
-/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/TestSock.dir/main.cpp.o -o ../../bin/TestSock  ../../lib/libspdlog.a -lpthread -llog 
