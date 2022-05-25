@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/C++/TestSock/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/subproject/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/subproject/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/subproject/spdlog/CMakeFiles/spdlog.dir
+/data/data/com.termux/files/home/C++/TestSock/build/subproject/spdlog/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/subproject/spdlog/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/src/CMakeFiles/TestSock.dir
+/data/data/com.termux/files/home/C++/TestSock/build/src/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/C++/TestSock/build/src/CMakeFiles/rebuild_cache.dir
